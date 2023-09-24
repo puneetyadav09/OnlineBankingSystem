@@ -5,7 +5,10 @@ This Java-based Online Banking System is designed to provide a simple yet secure
 
 **Features**
 
-**User Authentication:** Secure login and registration for customers.\n
-**Account Management:** View account balances, and transaction history.
-**Admin Dashboard:** Admins can manage user accounts, view transaction logs, and more.
-**Responsive Design:** User-friendly interface accessible from various devices.
+**1. User Authentication:** Secure login and registration for customers.
+
+**2. Account Management:** View account balances, and transaction history.
+
+**3. Admin Dashboard:** Admins can manage user accounts, view transaction logs, and more.
+
+**4. Responsive Design:** User-friendly interface accessible from various devices.
