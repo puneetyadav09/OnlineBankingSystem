@@ -1,1 +1,11 @@
 # OnlineBankingSystem
+Welcome to the Online Banking System project developed in Java.
+
+This Java-based Online Banking System is designed to provide a simple yet secure platform for managing banking operations online for local hosts. It offers a range of features for customers.
+
+**Features**
+
+**User Authentication:** Secure login and registration for customers.
+**Account Management:** View account balances, and transaction history.
+**Admin Dashboard:** Admins can manage user accounts, view transaction logs, and more.
+**Responsive Design:** User-friendly interface accessible from various devices.
