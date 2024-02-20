@@ -12,3 +12,12 @@ This Java-based Online Banking System is designed to provide a simple yet secure
 **3. Admin Dashboard:** Admins can manage user accounts, view transaction logs, and more.
 
 **4. Responsive Design:** User-friendly interface accessible from various devices.
+
+**Installation**
+
+1. Clone the repository to your local machine:
+   https://github.com/puneetyadav09/OnlineBankingSystem
+
+2. Build and run the application.
+
+Developed by Puneet
